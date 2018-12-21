@@ -1,0 +1,1 @@
+ docker build -t gt-simple-service:latest .

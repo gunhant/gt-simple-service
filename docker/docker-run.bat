@@ -1,0 +1,1 @@
+docker run -d -v /tmp:/tmp -p 9090:9000 gt-simple-service
